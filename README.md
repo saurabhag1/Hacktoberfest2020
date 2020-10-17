@@ -1,6 +1,6 @@
 # Hacktoberfest2020 Repositories Archived 
 
-## Reason
+#### Reason
 ### Hacktoberfest Team 
 ( https://github.com/OpenSouceCode/Hacktoberfest2020/issues/302 )
 
@@ -19,6 +19,7 @@ However, if you are interested in having contributions to this repo count toward
 If you have any questions about this or participating in Hacktoberfest, please contact our team via email hacktoberfest@digitalocean.com or join our community Discord server.
 
 Happy Hacking,
+
 The Hacktoberfest Team
 
 Hacktoberfest is presented by DigitalOcean, Intel and DEV.
